@@ -9,6 +9,7 @@ getting into blockchain nowadays. for now it's bsv, planning to learn solana as 
 
 ### my Interests
 
+- database
 - terminal
 - linux
 - backend
