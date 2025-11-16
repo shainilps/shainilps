@@ -23,6 +23,8 @@ Why code in codeshaine? Because I code to escape boredom, hehe!
 
 That would be hmmm...!! planning to build a terminal, window compostor and a database. let's see if i can do that. 
 
+curretnly working on relay service for bsv, typenuhh (monkey type in terminal), key-value db, certbot like in rust.  
+
 ---
 
 #### you can contact me  [here📨]("mailto:shainilps.work@gmail.com")
