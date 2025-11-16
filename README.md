@@ -3,7 +3,7 @@
 ### a bit about me
 
 i'm a developer who is into computer science. i mostly build stuff with go, typescript/javascript and rust for now, know some fp as well(ocaml, nix), but haven't built anything with it.
-getting into blockchain nowadays. for now it's bsv, planning to learn solana as well.  
+getting into blockchain nowadays. for now hacking around bsv
 
 <img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
 
