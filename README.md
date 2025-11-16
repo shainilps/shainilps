@@ -2,8 +2,7 @@
 
 ### a bit about me
 
-i'm a developer who is into computer science. i mostly build stuff with go, typescript/javascript and rust for now, know some fp as well(ocaml, nix), but haven't built anything with it.
-getting into blockchain nowadays. for now hacking around bsv
+i'm a developer who is into computer science. i mostly build stuff with go, typescript/javascript, rust and zig. know some fp as well; ocaml and nix but haven't built anything with it. hacking bsv on work!!
 
 <img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
 
