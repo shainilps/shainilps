@@ -15,11 +15,7 @@ getting into blockchain nowadays. for now it's bsv, planning to learn solana as 
 - backend
 - blockchain
 - anime
-
-### my atmosphere
-
-Why code in codeshaine? Because I code to escape boredom, hehe!
-
+  
 ### my goal
 
 That would be hmmm...!! planning to build a terminal, window compostor and a database. let's see if i can do that. 
