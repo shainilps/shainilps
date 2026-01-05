@@ -17,9 +17,7 @@ i'm a developer who is into computer science. i mostly build stuff with go, type
   
 ### my goal
 
-That would be hmmm...!! planning to build a terminal, window compostor and a database. let's see if i can do that. 
-
-curretnly working on relay service for bsv, typenuhh (monkey type in terminal), key-value db, certbot like in rust.  
+That would be hmmm...!! diving into low level systems. 
 
 ---
 
