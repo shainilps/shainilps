@@ -2,7 +2,7 @@
 
 ### a bit about me
 
-i'm a developer who is into computer science. i mostly build stuff with go, typescript/javascript, rust and zig. know some fp as well; ocaml and nix but haven't built anything with it. hacking bsv on work!!
+i'm a developer who is into computer science. i mostly build stuff with go, typescript/javascript, rust and c. know some fp as well; haskell haven't built anything meaningful yet. hacking bsv on work!!
 
 <img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
 
