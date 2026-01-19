@@ -8,7 +8,7 @@ i'm a developer who is into computer science. i mostly build stuff with go, type
 
 ### my Interests
 
-- database
+- operating systems
 - terminal
 - linux
 - backend
