@@ -1,23 +1,23 @@
-### hey, this is Shainil P.S. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey, this is Shainil P.S.
 
 ### a bit about me
 
-i'm a developer who is into computer science. i mostly build stuff with go, c, typescript/javascript and rust. know some fp as well; haskell haven't built anything meaningful yet. hacking bsv on work!!
-
-<img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
+I call myself a computer programmer. I mostly work with languages like Go, C, TS/JS and Rust. I also know some functional programming, mainly Haskell. I haven't built anything meaningful Haskell yet,
+but these days I'm trying to hack on low-level stuff.
 
 ### my Interests
 
-- operating systems
-- terminal
-- linux
-- backend
-- blockchain
-- anime
+- Operating Systems
+- Kernel
+- Terminal
+- Blockchain (only UTXO blockchains)
+- Anime
+- Neovim
+- Emacs (even though I use Neovim daily, I think the Lisp interpreter is a good OS)
   
 ### my goal
 
-That would be hmmm...!! diving into low level systems. 
+I'm still figuring out what I want to spend my time on.
 
 ---
 
