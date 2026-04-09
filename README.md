@@ -2,7 +2,7 @@
 
 ### a bit about me
 
-I call myself a computer programmer. I mostly work with languages like Go, C, TS/JS and Rust. I also know some functional programming, mainly Haskell. I haven't built anything meaningful Haskell yet,
+I call myself a computer programmer. I mostly work with languages like Go, C, TS/JS and Rust. I also know some functional programming, mainly Haskell. I haven't built anything meaningful in Haskell yet,
 but these days I'm trying to hack on low-level stuff.
 
 ### my Interests
