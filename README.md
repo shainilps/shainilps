@@ -8,11 +8,11 @@ but these days I'm trying to hack on interesting projects.
 ### my Interests
 
 - Operating Systems
+- Functional Programming
 - Terminal
 - Blockchain/Distributed Systems
 - Neovim
-- Anime
-- Cooking (watching someone cook lol)
+- Anime and watching cooking videos (lol)
 
 ---
 
