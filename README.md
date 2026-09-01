@@ -15,4 +15,4 @@ I call myself a computer programmer, though secretly I'm on a quest to become a 
 
 ---
 
-#### you can contact me  [here📨]("mailto:me@shainilps.com")
+#### you can contact me  [here📨](mailto:me@shainilps.com)
