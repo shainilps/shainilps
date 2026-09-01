@@ -2,8 +2,7 @@
 
 ### a bit about me
 
-I call myself a computer programmer. I mostly work with languages like Go, C,  Rust and TS/JS. I also know some functional programming, mainly Haskell. I haven't built anything meaningful in Haskell yet,
-but these days I'm trying to hack on interesting projects. 
+I call myself a computer programmer, though secretly I'm on a quest to become a sorcerer. I mostly work with Go, C, Rust, and TS/JS. I also dabble in functional programming, mainly Haskell still haven't conjured anything meaningful with it, but these days I'm hacking away at interesting projects.
 
 ### my Interests
 
@@ -16,4 +15,4 @@ but these days I'm trying to hack on interesting projects.
 
 ---
 
-#### you can contact me  [here📨]("mailto:shainilps.work@gmail.com")
+#### you can contact me  [here📨]("mailto:me@shainilps.com")
