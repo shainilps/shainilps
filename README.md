@@ -2,7 +2,7 @@
 
 ### a bit about me
 
-I call myself a computer programmer, though secretly I'm on a quest to become a sorcerer. I mostly work with Go, C, Rust, and TS/JS. I also dabble in functional programming, mainly Haskell still haven't conjured anything meaningful with it, but these days I'm hacking away at interesting projects.
+I call myself a computer programmer, though secretly I'm on a quest to become a sorcerer. I mostly work with Go, C, Rust, and TS/JS. I also do some functional programming, mainly Haskell still haven't conjured anything meaningful with it, but these days I'm hacking away at interesting projects.
 
 ### my Interests
 
